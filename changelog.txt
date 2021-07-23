@@ -1,1 +1,1 @@
-- Added automatic updates logic
+- Initial version
