@@ -1,3 +1,2 @@
-- Integrated Cloud Uploader (Beta)
-- Brochure design bugfix (TBC)
-- Other minor changes
+- Fixed bug on destination path
+- Added First Image Size spinbox (for testing only)
