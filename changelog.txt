@@ -1,2 +1,3 @@
-- Fixed bug on destination path
-- Added First Image Size spinbox (for testing only)
+- Upgraded to Python 3.8 libraries (uninstall old version first)
+- Fix on brochure design
+- Likely to fix Word opening too (TBC)
