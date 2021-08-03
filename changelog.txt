@@ -1,3 +1,3 @@
-- Upgraded to Python 3.8 libraries (uninstall old version first)
-- Fix on brochure design
-- Likely to fix Word opening too (TBC)
+- Added demo brochure design
+- Added history log button on Cloud section
+- Added destination path warning popup on first run only
