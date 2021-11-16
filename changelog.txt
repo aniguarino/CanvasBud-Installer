@@ -1,3 +1,3 @@
-- Added demo brochure design
-- Added history log button on Cloud section
-- Added destination path warning popup on first run only
+- Fixes on all existing domains
+- Adding openrent.co.uk domain (beta)
+- Minor fix on brochure design
