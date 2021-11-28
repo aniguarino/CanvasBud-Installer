@@ -1,3 +1,5 @@
 - Fixes on all existing domains
 - Adding openrent.co.uk domain (beta)
 - Minor fix on brochure design
+- Desktop as default path
+- Some fix on Chrome driver handling
